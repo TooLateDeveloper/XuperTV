@@ -78,20 +78,20 @@ El bot de **GitHub Actions / Automoderador** responde de forma automatizada toda
 
 | 🔢 Código Downloader | 📦 Versión APK | 🚨 Notas y Estado |
 | :---: | :---: | :--- |
+| <kbd>&nbsp;&nbsp;**3390251**&nbsp;&nbsp;</kbd> | `v5.1.7` | Versión Oficial ➔ **PAGO OBLIGATORIO** en cualquier región |
+| <kbd>&nbsp;&nbsp;**5610762**&nbsp;&nbsp;</kbd> | `v5.1.5` | Versión Oficial ➔ **PAGO OBLIGATORIO** en cualquier región |
 | <kbd>&nbsp;&nbsp;**8152752**&nbsp;&nbsp;</kbd> | `v4.99.4` | Versión Oficial |
 | <kbd>&nbsp;&nbsp;**7230881**&nbsp;&nbsp;</kbd> | `v4.99.3` | Versión Oficial |
 | <kbd>&nbsp;&nbsp;**2880326**&nbsp;&nbsp;</kbd> | `v4.99.2` | Versión Oficial |
 | <kbd>&nbsp;&nbsp;**9764306**&nbsp;&nbsp;</kbd> | `v4.34.5` | Versión Oficial *(Única para TV Boxes chinos/falsos)* |
-| <kbd>&nbsp;&nbsp;**5610762**&nbsp;&nbsp;</kbd> | `v5.1.5` | Versión Oficial ➔ **PAGO OBLIGATORIO** en cualquier región |
-| <kbd>&nbsp;&nbsp;**3390251**&nbsp;&nbsp;</kbd> | `v5.1.7` | Versión Oficial ➔ **PAGO OBLIGATORIO** en cualquier región |
 
 ### 📱 Versiones para Teléfonos Móviles / Tablets
 
 | 🔢 Código Downloader | 📦 Versión APK | 🚨 Notas y Estado |
 | :---: | :---: | :--- |
-| <kbd>&nbsp;&nbsp;**1859690**&nbsp;&nbsp;</kbd> | `v6.2.2` | Versión Oficial |
-| <kbd>&nbsp;&nbsp;**5189993**&nbsp;&nbsp;</kbd> | `v6.2.3` | Versión Oficial |
 | <kbd>&nbsp;&nbsp;**3154861**&nbsp;&nbsp;</kbd> | `v6.5.5` | Versión Oficial ➔ **PAGO OBLIGATORIO** en cualquier región |
+| <kbd>&nbsp;&nbsp;**5189993**&nbsp;&nbsp;</kbd> | `v6.2.3` | Versión Oficial |
+| <kbd>&nbsp;&nbsp;**1859690**&nbsp;&nbsp;</kbd> | `v6.2.2` | Versión Oficial |
 
 > [!NOTE]
 > *Dependiendo de la región de cada quien, la app puede forzarlos a actualizar o no. También, dependiendo de cada región, puede funcionar sin costo o no, y por último, puede estar bloqueado para su uso o no.*
