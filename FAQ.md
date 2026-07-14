@@ -45,8 +45,8 @@ Para quien decida e insista en instalar **XuperTV** bajo su propio criterio, aqu
 
 | 🔢 Código Downloader | 📦 Versión APK | 🚨 Notas de Compatibilidad |
 | :---: | :---: | :--- |
-| <kbd>&nbsp;&nbsp;**1859690**&nbsp;&nbsp;</kbd> | `v6.2.2` | Versión Oficial |
 | <kbd>&nbsp;&nbsp;**5189993**&nbsp;&nbsp;</kbd> | `v6.2.3` | Versión Oficial |
+| <kbd>&nbsp;&nbsp;**1859690**&nbsp;&nbsp;</kbd> | `v6.2.2` | Versión Oficial |
 
 > [!NOTE]
 > *Dependiendo de la región de cada quien puede forzarlos a actualizar o no, también dependiendo de cada región puede funcionar sin costo o no, y por último, dependiendo también de la región puede estar bloqueado para su uso o no.*
